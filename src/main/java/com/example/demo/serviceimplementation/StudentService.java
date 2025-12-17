@@ -5,7 +5,7 @@ import com.example.demo.service.service;
 import com.example.demo.service.StudentService;
 
 @service
-public class StudentserviceImp implements StudentService{
+public class Studentservice implements StudentService{
     @Autowired
     StudentRepository StudentRepository;
 
